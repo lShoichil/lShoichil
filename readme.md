@@ -8,6 +8,9 @@
 <a href="https://www.kaggle.com/shoi4i">
   <img align="left" alt="Kaggle" width="22px" src="https://user-images.githubusercontent.com/78679833/133707020-d93cb954-7cb5-4ec0-8ef2-eaf1d72a97a0.png" />
 </a>
+<a href="https://vk.com/lshoichil">
+  <img align="left" alt="VK" width="22px" src="https://user-images.githubusercontent.com/78679833/133712989-f6ebe01f-3558-4848-98cb-8c26c2bc1f6f.png" />
+</a>
 
 <br /> ____________________
 <br />
