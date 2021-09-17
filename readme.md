@@ -12,7 +12,7 @@
   <img align="left" alt="VK" width="22px" src="https://user-images.githubusercontent.com/78679833/133712989-f6ebe01f-3558-4848-98cb-8c26c2bc1f6f.png" />
 </a>
 
-<br /> ______________________
+______________________
 <br />
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=lShoichil&show_icons=true&theme=gotham" alt="lShoichil" />
