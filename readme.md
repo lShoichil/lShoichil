@@ -9,6 +9,8 @@
   <img align="left" alt="Kaggle" width="22px" src="https://user-images.githubusercontent.com/78679833/133707020-d93cb954-7cb5-4ec0-8ef2-eaf1d72a97a0.png" />
 </a>
 
+<br />
+
 📈 my github stats
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=lShoichil&show_icons=true&theme=gotham" alt="lShoichil" />
