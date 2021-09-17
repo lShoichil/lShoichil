@@ -1,4 +1,4 @@
-### Hi there! ![hi](https://user-images.githubusercontent.com/78679833/133706462-41463c6c-bb57-41d0-a093-5bff564ed75c.gif)
+### Hi there! <img src="https://user-images.githubusercontent.com/78679833/133706462-41463c6c-bb57-41d0-a093-5bff564ed75c.gif" width="25px">
 <a href="https://codeforces.com/profile/Shoichi">
   <img align="left" alt="Codeforces" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/codeforces.svg" />
 </a>
