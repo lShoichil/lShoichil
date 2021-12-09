@@ -12,7 +12,13 @@
   <img align="left" alt="VK" width="22px" src="https://user-images.githubusercontent.com/78679833/133712989-f6ebe01f-3558-4848-98cb-8c26c2bc1f6f.png" />
 </a>
 <br>
+
+ <br>
  
+ ![visitors](https://visitor-badge.glitch.me/badge?page_id=Lednik7.Lednik7)
+ [![GitHub Urezzzer](https://img.shields.io/github/followers/lShoichil?label=follow&style=social)](https://github.com/lShoichil)
+ 
+ <br>
 _____________________
 
 ## &#x1f4c8; GitHub Stats
