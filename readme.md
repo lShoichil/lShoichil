@@ -1,4 +1,4 @@
-## Hi there! <img src="https://user-images.githubusercontent.com/78679833/133706462-41463c6c-bb57-41d0-a093-5bff564ed75c.gif" width="25px">
+## Hi there!
 [![CodeForces Badge](https://img.shields.io/badge/CodeForces-profile-red)](https://codeforces.com/profile/Shoichi)
 [![Kaggle Badge](https://img.shields.io/badge/Kaggle-profile-blue)](https://www.kaggle.com/shoi4i)
 [![LeetCode Badge](https://img.shields.io/badge/LeetCode-profile-yellow)](https://leetcode.com/leningdenis/)
