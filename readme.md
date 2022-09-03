@@ -1,7 +1,7 @@
 ## Hi there!
 [![CodeForces Badge](https://img.shields.io/badge/CodeForces-profile-red)](https://codeforces.com/profile/Shoichi)
 [![Kaggle Badge](https://img.shields.io/badge/Kaggle-profile-blue)](https://www.kaggle.com/shoi4i)
-[![LeetCode Badge](https://img.shields.io/badge/LeetCode-profile-yellow)](https://leetcode.com/leningdenis/)
+[![LeetCode Badge](https://img.shields.io/badge/LeetCode-profile-yellow)](https://leetcode.com/Shoichi_dl/)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Lednik7.Lednik7)
 [![GitHub Urezzzer](https://img.shields.io/github/followers/lShoichil?label=follow&style=social)](https://github.com/lShoichil)
 
