@@ -7,10 +7,8 @@ My other accounts:
 
 ## &#x1f4c8; GitHub Stats
 
-<a href="https://github.com/lShoichil">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=lShoichil&theme=gotham" alt="Denis GitHub Stats" />
-</a>
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lShoichil&show_icons=true&include_all_commits=true&count_private=true&theme=discord_old_blurple&hide=contribs)](https://github.com/lShoichil)
 
 <a href="https://github.com/lShoichil">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-streak-stats.herokuapp.com/?user=lShoichil&theme=gotham" alt="Denis GitHub Stats" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-streak-stats.herokuapp.com/?user=lShoichil&theme=gotham&stroke=ffffff&background=2c2f33&ring=677bbf&fire=677bbf&currStreakNum=ffffff&currStreakLabel=677bbf&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="Denis GitHub Stats" />
 </a>
