@@ -10,6 +10,7 @@ My other accounts:
 <a href="https://github.com/lShoichil">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=lShoichil&theme=gotham" alt="Denis GitHub Stats" />
 </a>
+
 <a href="https://github.com/lShoichil">
   <img align="center" style="margin:0.5rem" src="https://github-readme-streak-stats.herokuapp.com/?user=lShoichil&theme=gotham" alt="Denis GitHub Stats" />
 </a>
